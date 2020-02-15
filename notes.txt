@@ -1,0 +1,5 @@
+Dict Items:
+	smglsb --Sec Msg LSB
+	smgfs --Sec Msg File Size
+	sadlsb --Small Audio LSB
+	sadfs --Small Audio File Size
